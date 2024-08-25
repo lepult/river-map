@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/river-map/static/js/main.6c2572fd.js",
+    "index.html": "/river-map/index.html",
+    "main.6c2572fd.js.map": "/river-map/static/js/main.6c2572fd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6c2572fd.js"
+  ]
+}
