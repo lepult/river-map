@@ -1,6 +1,7 @@
 {
   "name": "river-map-deckgl",
   "version": "0.1.0",
+  "homepage": "https://lepult.github.io/river-map",
   "private": true,
   "dependencies": {
     "@deck.gl/core": "^8.9.35",
